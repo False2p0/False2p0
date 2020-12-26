@@ -8,6 +8,8 @@
 
 [Simple-Discord-Bot](https://github.com/False2p0/Simple-discord-Bot)
 
+# My Skills
+
 Skills: HTML / CSS / JS / Python
 
 - 🔭 I’m currently working on temQ Discord Bot 
