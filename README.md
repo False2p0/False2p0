@@ -12,6 +12,8 @@
 
 Skills: HTML / CSS / JS / Python
 
+# Currently working
+
 - 🔭 I’m currently working on temQ Discord Bot and [Simple-Discord-Bot](https://github.com/False2p0/Simple-discord-Bot)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/False2p0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/temQ_false/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/false_temQ)  
